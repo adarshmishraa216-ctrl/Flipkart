@@ -2,7 +2,6 @@
 import Navbar from "./component/Navbar"; // Capital N
 import CategoryBar from "./component/CategoryBar";
 import Sidebar from "./component/Sidebar";
-import Description from "./component/Description";
 import Cards from "./component/Cards";
 
 const App = () => {
@@ -11,7 +10,6 @@ const App = () => {
       <Navbar /> {/* Capital N */}
       <CategoryBar />
       <Sidebar />
-      <Description />
       <Cards />
     </div>
   );

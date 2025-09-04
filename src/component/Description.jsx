@@ -2,9 +2,9 @@ import React from "react";
 
 const Description = () => {
   return (
-    <div className="w-full bg-zinc-100 p-8 overflow-auto flex gap-7">
+    <div className="w-full bg-zinc-100 p-8 overflow-auto flex flex-col gap-7">
      
-      <div className="w-1/2 font-semibold hover:text-blue-600">
+      <div className="w-full font-semibold hover:text-blue-600">
         <h3 className="mb-2">Description</h3>
         <p className="text-sm text-gray-700 leading-relaxed mt-4">
           Titan Mirage with 1.96&quot; AMOLED Display, Industry Best 410x502
@@ -14,7 +14,7 @@ const Description = () => {
           Monitor, 100+ Watchfaces, SOS Calling.
         </p>
       </div>
-      <div className="w-1/2 font-semibold hover:text-blue-600">
+      <div className="w-full font-semibold hover:text-blue-600">
         <h3 className="mb-2">Highlights</h3>
         <div className="text-sm text-gray-700 leading-relaxed mt-4 flex flex-col gap-2">
           <div className="flex items-start gap-2">
