@@ -121,7 +121,7 @@ const Sidebar = () => {
       </div>
 
       <div className="w-full lg:w-[800px] bg-zinc-100 p-4 sm:p-6 rounded lg:sticky lg:top-4 self-start">
-        <h2 className="text-lg sm:text-xl md:text-2xl font-light text-gray-800 mb-2">
+        <h2 className="text-lg sm:text-xl md:text-2xl font-light text-gray-800 mb-2 font-family-sans-serifg">
           Titan Mirage with 1.96" AMOLED Display with AOD(410x502)&Functional
           Crown, BT Calling Smartwatch (Brown Strap, Free Size)
         </h2>
