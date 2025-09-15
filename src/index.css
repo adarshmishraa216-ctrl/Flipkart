@@ -1,1 +1,6 @@
 @import "tailwindcss";
+
+.main-heading{
+    font-family: 'Inter';
+    font-weight: 400;
+}
